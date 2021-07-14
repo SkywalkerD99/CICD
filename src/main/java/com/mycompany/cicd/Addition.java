@@ -20,7 +20,7 @@ public class Addition {
     }
     
     public int getResult() {
-        return member1 + member2;
+        return member1 + member2 + 1;
     }
     
     public static void main(String[] args) {
