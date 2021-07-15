@@ -20,7 +20,7 @@ public class Substraction {
     }
     
     public int getResult() {
-        return member1 - member2 - 1;
+        return member1 - member2;
     }
     
 }
